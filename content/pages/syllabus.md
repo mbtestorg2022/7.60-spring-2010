@@ -24,10 +24,39 @@ Evaluation
 
 Students will be evaluated by two criteria. Participation in class discussions will constitute 50% of the grade. The remaining 50% of the evaluation will be based on a written proposal due at the end of the semester.
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Class discussions | 50% |
-| Written proposal | 50% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Class discussions
+{{< tdclose >}}
+{{< tdopen >}}
+50%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Written proposal
+{{< tdclose >}}
+{{< tdopen >}}
+50%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Calendar
 --------
@@ -44,29 +73,309 @@ Professor Iain Cheeseman (IC)
 
 Professor Rudolf Jaenisch (RJ)
 
-| SES # | TOPICS | LECTURERS |
-| --- | --- | --- |
-| 1 | Introduction: Genome and systems biology | Young |
-| 2 | Discussion: Genome and systems biology | Young |
-| 3 | Lecture: Cell cycle | Young |
-| 4 | Discussion: Cell cycle | Young |
-| 5 | Lecture: Transcriptional regulation | Young |
-| 6 | Discussion: Transcriptional regulation | Young |
-| 7 | Lecture: Transcription and chromatin modification | Young |
-| 8 | Discussion: Transcription and chromatin modification | Young/Sharp |
-| 9 | Lecture: Chromosomes/replication | Cheeseman |
-| 10 | Discussion: Chromosomes/replication | Cheeseman/Young/Sharp |
-| 11 | Lecture: Epigenetics | Jaenisch |
-| 12 | Discussion: Epigenetics | Young/Sharp |
-| 13 | Lecture: Nuclear structure/export | Sharp |
-| 14 | Discussion: Nuclear structure/export | Sharp/Young |
-| 15 | Lecture: Chromatin and gene expression I | Young |
-| 16 | Discussion: Chromatin and gene expression I | Young/Sharp |
-| 17 | Lecture: Chromatin and gene expression II | Sharp |
-| 18 | Discussion: Chromatin and gene expression II | Sharp |
-| 19 | Lecture: Alternative splicing and polyadenylation | Sharp |
-| 20 | Discussion: Alternative splicing and polyadenylation | Sharp/Young |
-| 21 | Lecture: RNA interference and microRNAs | Sharp |
-| 22 | Discussion: RNA interference and microRNAs | Sharp/Young |
-| 23 | Lecture: RNA interference and transcription | Sharp |
-| 24 | Discussion: RNA interference and transcription | Young/Sharp
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+LECTURERS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction: Genome and systems biology
+{{< tdclose >}}
+{{< tdopen >}}
+Young
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Discussion: Genome and systems biology
+{{< tdclose >}}
+{{< tdopen >}}
+Young
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Lecture: Cell cycle
+{{< tdclose >}}
+{{< tdopen >}}
+Young
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Discussion: Cell cycle
+{{< tdclose >}}
+{{< tdopen >}}
+Young
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Lecture: Transcriptional regulation
+{{< tdclose >}}
+{{< tdopen >}}
+Young
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Discussion: Transcriptional regulation
+{{< tdclose >}}
+{{< tdopen >}}
+Young
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Lecture: Transcription and chromatin modification
+{{< tdclose >}}
+{{< tdopen >}}
+Young
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Discussion: Transcription and chromatin modification
+{{< tdclose >}}
+{{< tdopen >}}
+Young/Sharp
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Lecture: Chromosomes/replication
+{{< tdclose >}}
+{{< tdopen >}}
+Cheeseman
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Discussion: Chromosomes/replication
+{{< tdclose >}}
+{{< tdopen >}}
+Cheeseman/Young/Sharp
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Lecture: Epigenetics
+{{< tdclose >}}
+{{< tdopen >}}
+Jaenisch
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Discussion: Epigenetics
+{{< tdclose >}}
+{{< tdopen >}}
+Young/Sharp
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Lecture: Nuclear structure/export
+{{< tdclose >}}
+{{< tdopen >}}
+Sharp
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Discussion: Nuclear structure/export
+{{< tdclose >}}
+{{< tdopen >}}
+Sharp/Young
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+Lecture: Chromatin and gene expression I
+{{< tdclose >}}
+{{< tdopen >}}
+Young
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+Discussion: Chromatin and gene expression I
+{{< tdclose >}}
+{{< tdopen >}}
+Young/Sharp
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+Lecture: Chromatin and gene expression II
+{{< tdclose >}}
+{{< tdopen >}}
+Sharp
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+Discussion: Chromatin and gene expression II
+{{< tdclose >}}
+{{< tdopen >}}
+Sharp
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+Lecture: Alternative splicing and polyadenylation
+{{< tdclose >}}
+{{< tdopen >}}
+Sharp
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+Discussion: Alternative splicing and polyadenylation
+{{< tdclose >}}
+{{< tdopen >}}
+Sharp/Young
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+Lecture: RNA interference and microRNAs
+{{< tdclose >}}
+{{< tdopen >}}
+Sharp
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+Discussion: RNA interference and microRNAs
+{{< tdclose >}}
+{{< tdopen >}}
+Sharp/Young
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23
+{{< tdclose >}}
+{{< tdopen >}}
+Lecture: RNA interference and transcription
+{{< tdclose >}}
+{{< tdopen >}}
+Sharp
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+24
+{{< tdclose >}}
+{{< tdopen >}}
+Discussion: RNA interference and transcription
+{{< tdclose >}}
+{{< tdopen >}}
+Young/Sharp
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
